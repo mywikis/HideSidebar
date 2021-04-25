@@ -5,7 +5,7 @@
   "description": "Hides sidebar from anonymous users",
   "version": "2.0",
   "license-name": "GPL-2.0",
-  "type": "other",
+  "type": "skin",
   "manifest_version": 1,
   "Hooks": {
     "SkinBuildSidebar": "HideSidebarHooks::efHideSidebar"
